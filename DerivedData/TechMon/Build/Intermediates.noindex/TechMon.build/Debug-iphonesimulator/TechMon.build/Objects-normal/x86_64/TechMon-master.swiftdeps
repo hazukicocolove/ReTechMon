@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "e16f0b9524bbbd787a5f2a59722e209b"
+build_time: [1630850990, 92347000]
+inputs:
+  "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/TechMon/ViewController.swift": [1630850985, 199748148]
+  "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/TechMon/AppDelegate.swift": [1630850985, 179753799]
+  "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/TechMon/SceneDelegate.swift": [1630850985, 197634851]

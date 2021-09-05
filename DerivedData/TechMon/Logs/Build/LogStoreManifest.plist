@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>F10EC939-227B-40E4-8CDA-8486936F4ACF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F10EC939-227B-40E4-8CDA-8486936F4ACF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TechMon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TechMon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TechMon</string>
+			<key>timeStartedRecording</key>
+			<real>652550884.65043795</real>
+			<key>timeStoppedRecording</key>
+			<real>652550885.90702605</real>
+			<key>title</key>
+			<string>Build TechMon</string>
+			<key>uniqueIdentifier</key>
+			<string>F10EC939-227B-40E4-8CDA-8486936F4ACF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

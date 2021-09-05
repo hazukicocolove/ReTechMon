@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "9c17dfa7f23a6904bae5355f111e4e8d"
+build_time: [1630869858, 706903000]
+inputs:
+  "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/ReTechmon/ReTechmon/BattleViewController.swift": [1630869858, 528614865]
+  "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/ReTechmon/ReTechmon/TechMon_Resource/Models/TechMonManager.swift": [1508165933, 0]
+  "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/ReTechmon/ReTechmon/ViewController.swift": [1630858129, 868837976]
+  "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/ReTechmon/ReTechmon/TechMon_Resource/Models/Character.swift": [1508165933, 0]
+  "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/ReTechmon/ReTechmon/LobbyViewController.swift": [1630860483, 159356283]
+  "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/ReTechmon/ReTechmon/AppDelegate.swift": [1630858129, 862354591]
+  "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/ReTechmon/ReTechmon/SceneDelegate.swift": [1630858129, 866532818]

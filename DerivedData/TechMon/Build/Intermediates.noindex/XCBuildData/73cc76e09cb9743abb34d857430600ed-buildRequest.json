@@ -1,0 +1,56 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b2b413acb8a4cc9ea08b84b4b14cf9d3b6b4f79bdfe49d8c1a2249b080eadb91"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/DerivedData/TechMon/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/DerivedData/TechMon/Build/Products",
+      "derivedDataPath" : "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/DerivedData/TechMon/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/DerivedData/TechMon/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/hazuki/Desktop/13/la/lifeistech/TechMon/DerivedData/TechMon/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPod9,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "6E90E587-59B7-49C9-9F3E-92C3C74AAC1F",
+          "TARGET_DEVICE_MODEL" : "iPod9,1",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

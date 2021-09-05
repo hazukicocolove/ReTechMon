@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>12F63E7C-300B-4F45-B803-02A2334B6EDD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>12F63E7C-300B-4F45-B803-02A2334B6EDD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReTechmon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReTechmon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ReTechmon</string>
+			<key>timeStartedRecording</key>
+			<real>652553629.69153905</real>
+			<key>timeStoppedRecording</key>
+			<real>652553815.24974597</real>
+			<key>title</key>
+			<string>Run ReTechmon</string>
+			<key>uniqueIdentifier</key>
+			<string>12F63E7C-300B-4F45-B803-02A2334B6EDD</string>
+		</dict>
+		<key>4117F92A-8B87-490C-828F-779E632482F4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4117F92A-8B87-490C-828F-779E632482F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReTechmon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReTechmon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ReTechmon</string>
+			<key>timeStartedRecording</key>
+			<real>652562662.06707001</real>
+			<key>timeStoppedRecording</key>
+			<real>652563188.34434199</real>
+			<key>title</key>
+			<string>Run ReTechmon</string>
+			<key>uniqueIdentifier</key>
+			<string>4117F92A-8B87-490C-828F-779E632482F4</string>
+		</dict>
+		<key>590937D6-C1C8-40E1-B590-A1388AAA4C60</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>590937D6-C1C8-40E1-B590-A1388AAA4C60.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReTechmon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReTechmon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ReTechmon</string>
+			<key>timeStartedRecording</key>
+			<real>652563189.25743997</real>
+			<key>timeStoppedRecording</key>
+			<real>652563219.66236806</real>
+			<key>title</key>
+			<string>Run ReTechmon</string>
+			<key>uniqueIdentifier</key>
+			<string>590937D6-C1C8-40E1-B590-A1388AAA4C60</string>
+		</dict>
+		<key>B0E8E636-D798-4202-9F12-0B26D1D9BDBA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B0E8E636-D798-4202-9F12-0B26D1D9BDBA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReTechmon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReTechmon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ReTechmon</string>
+			<key>timeStartedRecording</key>
+			<real>652553557.46588802</real>
+			<key>timeStoppedRecording</key>
+			<real>652553620.72661805</real>
+			<key>title</key>
+			<string>Run ReTechmon</string>
+			<key>uniqueIdentifier</key>
+			<string>B0E8E636-D798-4202-9F12-0B26D1D9BDBA</string>
+		</dict>
+		<key>DE3F02C0-D8B7-4B6C-905F-DA5D557C27EB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DE3F02C0-D8B7-4B6C-905F-DA5D557C27EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReTechmon project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReTechmon</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ReTechmon</string>
+			<key>timeStartedRecording</key>
+			<real>652553818.12063599</real>
+			<key>timeStoppedRecording</key>
+			<real>652553828.47960699</real>
+			<key>title</key>
+			<string>Run ReTechmon</string>
+			<key>uniqueIdentifier</key>
+			<string>DE3F02C0-D8B7-4B6C-905F-DA5D557C27EB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

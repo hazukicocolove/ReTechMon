@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7B4445CF-F399-4B6C-9880-E2808898510C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>7B4445CF-F399-4B6C-9880-E2808898510C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>TechMon-feyjskkkmzegzmerfwwzthzxewrr</string>
+			<key>timeStartedRecording</key>
+			<real>652550885.74748397</real>
+			<key>timeStoppedRecording</key>
+			<real>652550885.90313804</real>
+			<key>title</key>
+			<string>Build target TechMon</string>
+			<key>uniqueIdentifier</key>
+			<string>7B4445CF-F399-4B6C-9880-E2808898510C</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
